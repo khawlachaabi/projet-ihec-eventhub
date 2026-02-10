@@ -55,9 +55,24 @@ Des comptes de test sont déjà configurés dans le code :
 - Admin : `admin@ihec.tn` / `admin123`  
 - Responsable de club : `sara@ihec.tn` / `sara123`  
 - Étudiant : `mohamed@ihec.tn` / `mohamed123`
+## 📸 Captures d'écran
+
+### 🏠 Écran d'accueil
+![Accueil](Capture/accueil admin.png)
+
+### gestion utilisateurs
+![gestion utilisateurs](Capture/gestion utilisateur.png)
+
+### 📚 gestion des salles
+![gestion des salles](Capture/gestion salles.png)
+
+### connexion
+![connexion](Capture/connexion.png)
+
 
 ## 👤 Auteur
 
 - **Nom** : Khawla Chaabi  
 - **GitHub** : https://github.com/khawlachaabi
+
 
