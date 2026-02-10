@@ -58,7 +58,7 @@ Des comptes de test sont déjà configurés dans le code :
 ## 📸 Captures d'écran
 
 ### 🏠 Écran d'accueil
-![Accueil](Capture/accueiladmin.png.png)
+![Accueil](Capture/accueiladmin.png)
 
 ### gestion utilisateurs
 ![gestion utilisateurs](Capture/gestionutilisateur.png)
@@ -74,6 +74,7 @@ Des comptes de test sont déjà configurés dans le code :
 
 - **Nom** : Khawla Chaabi  
 - **GitHub** : https://github.com/khawlachaabi
+
 
 
 
